@@ -1,0 +1,30 @@
+what is flask?
+   Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. 
+   it provides essential tools and features for web development while always allowing developers the flexibility to choose additional libraries and tools based on their specific requirements.
+
+features of flask
+   Lightweight: Flask is a lightweight framework because it is independent of external libraries and it gives a quick start for web development having complex applications.
+   Compatible: Flask is compatible with the latest technologies such as machine learning, agile development, cloud technologies, etc.
+   Independent: Flask allows full control to the developers for creating web applications. A developer can do the experiment with the libraries and architecture of the framework.
+   Integrated Unit Testing: Flask offers an integrated unit testing feature that helps in faster debugging, robust development, and independence to do experiments.
+   Flexible and Scalable: Flask supports WSGI templates that help in flexibility and scalability in the web development process.
+   Secure Cookies: Secure cookie is an attribute of an HTTP request that enables the security of channels and ensures no unauthorized person has access to the text. Flask supports the feature of secure cookies. 
+
+merits of flask
+   simple: it is simple and easy to use for even developers who are new to the web development sector.
+   flexibility: flask doesnot rely on external libraries . it has its own tools and technologiesthat help us work with the web application.
+   light weight: it is independent of external libraries and it gives a quick start for developments that have complex applications.
+   active community: with flask, it is hard to get stuck since flask has a large community of developers. this means there are numerous resources such as flask documentations,tutorials and forums to consult for guidance.
+
+dermits of Flask
+   micro frame work complexity:it may be a limitation for larger and complex projects or applications that require built in features and more extensive frame works.
+   limited built in features: forexample by default, flask doesnot come with features for data base management, so the developerhas to install third party features like flask alchemy for data base management.
+   limited built in tools
+   scalability:might not provide all the necessary tools for omplex web apps.
+
+prerequisites for flask
+   you must already have a solid foundation in Python before tackling Flask. Knowing Python makes learning Flask a whole lot easier; without a firm grasp of Python, Flask probably won’t make much sense to you.
+   you must atleast know the basic knowledge of programming and web development fundamentals including HTML and CSS.    
+
+meaning of _name_variable    
+   __name__ is the name of the current Python module. The app needs to know where it's located to set up some paths, and __name__ is a convenient way to tell it that.
